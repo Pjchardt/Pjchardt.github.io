@@ -4,6 +4,7 @@ body {
   padding-bottom: 20px;
 }
 
-.videoSizer {
-  width: 50%;
+.videoFormat {
+  padding-left: 0px;
+  padding-bottom: 20px;
 }
