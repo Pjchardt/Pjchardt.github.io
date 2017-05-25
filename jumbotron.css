@@ -1,10 +1,29 @@
 /* Move down content because we have a fixed navbar that is 50px tall */
 body {
-  padding-top: 25px;
-  padding-bottom: 20px;
+  padding-top: 30px;
+  padding-bottom: 25px;
 }
 
 .videoFormat {
   padding-left: 0px;
   padding-bottom: 20px;
+}
+
+.alternate {
+  background-color: #EEE;
+}
+
+hr {
+  border-width: 2px;
+  background-color: #AAA;
+}
+
+.row {
+  padding-top: 15px;
+  padding-bottom: 10px;
+}
+
+.rowExtraPadding {
+  padding-top: 20px;
+  padding-bottom: 10px;
 }
