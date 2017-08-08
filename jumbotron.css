@@ -11,8 +11,10 @@ body {
 }
 
 #scrollable {
-  height: 600px;
-  overflow: auto;
+  @media (min-width: 768px) {
+    height: 600px;
+    overflow: auto;
+   }
 }
 
 h3.left {
@@ -54,6 +56,18 @@ a:hover {
 .right {
   padding-top: 30px;
   padding-bottom: 10px;
+}
+
+.hide-on-desktop {
+  @media (max-width: 768px) {
+     visibility: hidden;
+   }
+}
+
+.hide-on-mobile {
+  @media (min-width: 768px) {
+     visibility: hidden;
+   }
 }
 
 /*.row {
