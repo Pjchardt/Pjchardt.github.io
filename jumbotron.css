@@ -11,10 +11,8 @@ body {
 }
 
 #scrollable {
-  @media (min-width: 768px) {
-    height: 600px;
-    overflow: auto;
-   }
+  height: 600px;
+  overflow: auto;
 }
 
 h3.left {
