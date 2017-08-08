@@ -58,7 +58,7 @@ a:hover {
 
 
 @media (max-width: 768px) {
-    .hide-on-desktop {
+  .hide-on-desktop {
      display: none;
    }
 }
