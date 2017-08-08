@@ -49,6 +49,10 @@ a:hover {
   padding-bottom: 10px;
 }
 
+.navbar-brand {
+    padding-bottom: 25px;
+}
+
 /*.row {
   padding-top: 15px;
   padding-bottom: 10px;
