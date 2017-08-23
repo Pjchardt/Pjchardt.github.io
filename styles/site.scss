@@ -1,8 +1,21 @@
-/* Move down content because we have a fixed navbar that is 50px tall */
+---
+---
+
+@import "bootstrap";
+
+.navbar-static-top {
+  background-color:#373a3c;
+}
+
+.navbar-brand {
+  color:#fff;
+  font-size: 2rem;
+}
+
 body {
-  padding-top: 10px;
+  //padding-top: 10px;
   padding-bottom: 25px;
-  font-size: .9rem;
+  font-size: 1.65rem;
 }
 
 .containerLeft {
@@ -11,15 +24,19 @@ body {
 }
 
 #scrollable {
-  height: 600px;
+  height: 625px;
   overflow: auto;
+}
+
+h3 {
+  margin-top: 0px;
 }
 
 h3.left {
   margin: 0px;
   font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
-  font-size: 1rem;
-  line-height: 1.5;
+  font-size: 1.5rem;
+  line-height: 1.75;
   color: #373a3c;
   background-color: #eee;
 }
@@ -37,9 +54,12 @@ p.left {
   background-color: #EEE;
 }
 
+.footer {
+  font-size: 1.5rem;
+}
+
 hr {
-  border-width: 2px;
-  background-color: #AAA;
+  border-top: 1px solid #AAA;
 }
 
 a {
@@ -51,30 +71,28 @@ a:hover {
   color: #999;
 }
 
+.left a{
+    font-size: 1.6rem;
+}
+
 .right {
-  padding-top: 30px;
+  padding-top: 5px;
   padding-bottom: 10px;
 }
 
-
-@media (max-width: 768px) {
-  .hide-on-desktop {
-     display: none;
-   }
+.row {
+  margin-left: -30px;
 }
 
-@media (min-width: 768px) {
+
+@media (max-width: 768px){
   .hide-on-mobile {
      display: none;
    }
 }
 
-/*.row {
-  padding-top: 15px;
-  padding-bottom: 10px;
+@media (min-width: 769px) {
+  .hide-on-desktop {
+     display: none;
+   }
 }
-
-.rowExtraPadding {
-  padding-top: 20px;
-  padding-bottom: 10px;
-}*/
