@@ -12,5 +12,5 @@ title:  "Polygardens"
       </div>
     </div>
   <h3 align="left">Polygardens</h3>
-  <p>Create gardens in indoor settings to find temporary escape from the work day. Experimental AR app for Android. Source code here: <put in link :) once on github></p>
+  <p>Create gardens in indoor settings to find temporary escape from the work day. Experimental AR app for Android. Source code here: [put in link :) once on github]</p>
 </div>
