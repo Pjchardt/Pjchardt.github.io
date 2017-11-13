@@ -16,4 +16,9 @@ title:  "Peter Padder Pauleypop"
 
   <h3 align="left">Peter Padder Pauleypop</h3>
   <p>Game vignette as poem exploring 90's JRPGs and the routines in our lives and the games we play.</p>
+  <p>
+  <a href="https://killscreen.com/articles/peter-padder-pauleypop-reminds-players-why-being-grown-totally-depressing/">Peter Padder Pauleypop reminds players... Kilscreen, 2014</a>
+  <a href="http://www.paperdroids.com/2015/01/22/budget-gamer-peter-padder-pauleypop-explores-mundane-beauty-games/">Peter Padder Pauleypop explores... Paper Droids, 2014</a> 
+  <a href="http://www.siliconera.com/2014/12/12/love-poem-illusion-gaias-raft-sequence/">A love poem to... Silconera, 2014</a>
+  </p>
 </div>
