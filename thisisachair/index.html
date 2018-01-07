@@ -86,10 +86,10 @@
 								geometry: { path: 'models/obj/chairObj.obj' },
                 position: { x:0, y:0, z:0 },
                 rotation: { x:0, y:0, z:180 },
-                scale: {x:100, y:100, z:100 },
-								material: { path: 'models/obj/chairObj.mtl' },
-								/*material:{ type: 'phong', color: 0xFFFFFF },
-								texture: { path: 'awe_orange_square.png' },*/
+                scale: {x:50, y:50, z:50 },
+								//material: { path: 'models/obj/chairObj.mtl' },
+								material:{ type: 'phong', color: 0xFFFFFF },
+								texture: { path: 'models/obj/chairDiffuse.png' },
                 visible: false,
 			        }, { poi_id: 'jsartoolkit_marker_64' });
 
@@ -100,9 +100,10 @@
                 position: { x:0, y:0, z:0 },
                 rotation: { x:0, y:0, z:0 },
                 scale: {x:1, y:1, z:1 },
-								material: { path: 'models/obj/chairObj.mtl' },
-			          /*material:{ type: 'phong', color: 0xFFFFFF },*/
-                texture: { path: 'models/obj/chairDiffuse.tga' },
+								//material: { path: 'models/obj/chairObj.mtl' },
+			          material:{ type: 'phong', color: 0xFFFFFF},
+                texture: { path: 'models/obj/chairDiffuse.png' },
+								visible: false,
 			        }, { poi_id: 'fixed_poi' });
 
 			        /*// animate the fixed POI
