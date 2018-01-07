@@ -3,9 +3,9 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd Chair_Diffuse.tga
-bump Chair_Normal.tga -bm 1
+map_Kd chairDiffuse.tga
+bump chairNormal.tga
 Ni 1.00
 Ks 0.00 0.00 0.00
-map_Ks Chair_Specular.tga
+map_Ks chairSpecular.tga
 Ns 18.00
