@@ -14,7 +14,7 @@ title:  "AR Experiment 3"
   </div>
 
   <h3 align="left">AR Experiment 3</h3>
-  <p>AR Experiment 3: AR Marker with recording of its own making<p>
+  <p>AR Experiment 3: AR Marker with recording of its own making</p>
   <b>Materials</b>
   <p>Charcoal, Software, Video</p>
 </div>
