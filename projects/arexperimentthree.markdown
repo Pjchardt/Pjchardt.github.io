@@ -8,7 +8,7 @@ title:  "AR Experiment 3"
     <div class="col-xs-12" style="padding-bottom:20px">
       <!-- 16:9 aspect ratio -->
       <div class="embed-responsive embed-responsive-16by9">
-        <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/25618395" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+        <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/256183956" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
       </div>
     </div>
   </div>
