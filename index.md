@@ -7,5 +7,5 @@ layout: default
 
 <div class="right">
   <h3 align="left">Welcome</h3>
-  <p>Thank you for stopping by. I am in the process of adding my work to the site. Please forgive the construction!</p>
+  <p>Thank you for stopping by. Here you will find my portfolio. Further information about myself and my work may be added in the future.</p>
 </div>
