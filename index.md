@@ -7,6 +7,7 @@ layout: default
 
 <div class="right">
   <h3 align="left">Welcome</h3>
-  <p>I uses digital game development, hardware reappropriation, emerging technology, and play to foster discourse on emerging computational technology.</p>
-  <p>My work has been exhibited at events such as IndieCade, ALT.CTRL.GDC, FILE, and Smithsonian Indie Arcade. In 2016 I won Gold Prize in the Oculus Mobile Virtual Reality competition. I have also been awarded numerous grants for my work at the local level developing projects such as; ARTiculation - an interactive exhibit for children, and Rules & Play - a curated show of interactive works I created in 2015. I live in Kentucky most of the year.</p>
+  <p>I grew up on and learned to speak through toys, games, and tech demos. My work is meant to be played with, characteristically involving video game controllers, mobile devices, sensors, and custom built alternative controllers. One of my better know works is “Deluxe Turbo Racing 360”, in which Xbox 360 controller motors are modified from haptic feedback devices to locomotion system which converts the video game controller into a “vehicle” players race. I develop commercial games as well, through my company RalphVR. I am best known for my virtual reality game Daydream Blue. I am also active on the local level, building non-profits and creating interactive art shows, as well as organizing workshops, meetups, and game jams.
+  <br>
+  My work has been exhibited at events such as IndieCade, ALT.CTRL.GDC, FILE, and Smithsonian Indie Arcade. </p>
 </div>
