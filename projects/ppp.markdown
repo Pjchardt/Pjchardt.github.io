@@ -15,7 +15,7 @@ title:  "Peter Padder Pauleypop"
   </div>
 
   <h3 align="left">Peter Padder Pauleypop</h3>
-  <p>Game vignette as poem exploring 90's JRPGs and the routines in our lives and the games we play.</p>
+  <p>Game vignette adapting the form of 90's JRPGs to explore monotony.</p>
   <p>
   Mentions
   <ul>

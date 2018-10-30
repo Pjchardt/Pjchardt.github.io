@@ -8,7 +8,7 @@ title:  "Open Source"
     <div class="col-xs-12" style="padding-bottom:20px">
       <!-- 16:9 aspect ratio -->
       <div class="embed-responsive embed-responsive-16by9">
-         <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/LFwur-pnLcs"></iframe>
+      <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/266976743" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
       </div>
     </div>
   </div>

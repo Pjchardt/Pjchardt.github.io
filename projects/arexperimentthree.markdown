@@ -14,7 +14,7 @@ title:  "AR Experiment 3"
   </div>
 
   <h3 align="left">AR Experiment 3</h3>
-  <p>AR Experiment 3: AR Marker with recording of its own making</p>
+  <p>ARCU marker drawn in charcoal hangs on a wall. Viewing the drawing through a custom app, the marker is replaced by video playback of the documentation of the drawing of the marker.</p>
   <b>Materials</b>
   <p>Charcoal, Software, Video</p>
 </div>

@@ -12,6 +12,6 @@ title:  "Oeoe Club"
     </div>
   </div>
   <h3 align="left">Oeoe Club</h3>
-  <p>Research project examining augmented reality as a medium.</p>
+  <p>Online repository of documentation, writings, and resources, pertaining to and exploring augmented reality.</p>
   <p> <a href="https://oeoe.club">Link to Oeoe Club</a> </p>
 </div>

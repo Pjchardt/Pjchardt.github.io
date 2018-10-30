@@ -14,7 +14,7 @@ title:  "AR Experiment 4"
   </div>
 
   <h3 align="left">AR Experiment 4</h3>
-  <p>AR Experiment 4</p>
+  <p>Ink drawing recognized by custom augmented reality app and converted into a 3d undulating surface.</p>
   <b>Materials</b>
   <p>Ink, Software</p>
 </div>
