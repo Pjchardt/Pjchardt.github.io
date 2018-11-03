@@ -9,7 +9,7 @@ title:  "Peter Padder Pauleypop"
     <div class="col-xs-12" style="padding-bottom:20px">
       <!-- 16:9 aspect ratio -->
       <div class="embed-responsive embed-responsive-16by9">
-         <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/h-kRuwKetn0"></iframe>
+        <iframe src="https://player.vimeo.com/video/266976293" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
       </div>
     </div>
   </div>
