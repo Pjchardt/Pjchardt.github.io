@@ -17,6 +17,12 @@ title:  "Rules & Play"
     <img src="/images/r&p_1.jpg" class="img-responsive" alt="image 1" style="padding-bottom: 2rem; max-width:100%">
   </div>
   <div class="col-xs-12" style="padding-bottom:20px">
+    <img src="/images/r&p_3.jpg" class="img-responsive" alt="image 3" style="padding-bottom: 2rem; max-width:100%">
+  </div>
+  <div class="col-xs-12" style="padding-bottom:20px">
+    <img src="/images/r&p_4.jpg" class="img-responsive" alt="image 4" style="padding-bottom: 2rem; max-width:100%">
+  </div>
+  <div class="col-xs-12" style="padding-bottom:20px">
     <img src="/images/r&p_2.jpg" class="img-responsive" alt="image 2" style="padding-bottom: 2rem; max-width:100%">
   </div>
 </div>
