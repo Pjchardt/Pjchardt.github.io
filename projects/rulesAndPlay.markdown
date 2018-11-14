@@ -25,4 +25,5 @@ title:  "Rules & Play"
   <div class="col-xs-12" style="padding-bottom:20px">
     <img src="/images/r&p_2.jpg" class="img-responsive" alt="image 2" style="padding-bottom: 2rem; max-width:100%">
   </div>
+  <p>Photo documentation courtesy of mildmojo.</p>
 </div>
