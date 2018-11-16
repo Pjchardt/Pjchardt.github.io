@@ -4,10 +4,11 @@ title:  "Where Therefore We Go"
 ---
 
 <div class="right">
-  <div class="col-xs-12">
+  <div class="row">
+    <div class="col-xs-12">
     </div>
       <div class="col-xs-8" style="padding-bottom:20px">
-        <img src="/images/whereThereforeWeGo.jpg" class="img-responsive" alt="Where Therefore We Go" style="padding-bottom: 1rem; max-width:100%">
+        <img src="/images/whereThereforeWeGo_1.jpg" class="img-responsive" alt="Where Therefore We Go" style="padding-bottom: 1rem; max-width:100%">
       </div>
     </div>
   <h3 align="left">Where Therefore We Go</h3>
