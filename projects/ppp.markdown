@@ -23,5 +23,4 @@ title:  "Peter Padder Pauleypop"
     <li><a href="http://www.paperdroids.com/2015/01/22/budget-gamer-peter-padder-pauleypop-explores-mundane-beauty-games/">Peter Padder Pauleypop explores... Paper Droids, 2014</a> </li>
     <li><a href="http://www.siliconera.com/2014/12/12/love-poem-illusion-gaias-raft-sequence/">A love poem to... Silconera, 2014</a></li>
   </ul>
-  </p>
 </div>
