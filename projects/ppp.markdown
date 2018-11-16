@@ -16,7 +16,7 @@ title:  "Peter Padder Pauleypop"
 
   <h3 align="left">Peter Padder Pauleypop</h3>
   <p>Game vignette adapting the form of 90's JRPGs to explore monotony.</p>
-  <p>
+  <p><a href ="https://pjchardt.itch.io/peter-padder-pauleypop">Link to game download</a></p>
   Mentions
   <ul>
     <li><a href="https://killscreen.com/articles/peter-padder-pauleypop-reminds-players-why-being-grown-totally-depressing/">Peter Padder Pauleypop reminds players... Kilscreen, 2014</a></li>
