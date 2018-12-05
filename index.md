@@ -5,13 +5,11 @@
 layout: home
 ---
 
-<div class="right">
-    <p class="left">
-      <a href="/portfolio.html" alttext="Portfolio">Portfolio</a>
-      <h3><a href="/bio.html" alttext="Bio">Bio</a></h3>
+<div class="home">
+      <h1><a href="/portfolio.html" alttext="Portfolio">Portfolio</a></h1>
+      <h1><a href="/bio.html" alttext="Bio">Bio</a></h1>
       <!--<a href="/portfolio.html" alttext="Portfolio">Writings</a>
       <a href="/portfolio.html" alttext="Portfolio">Artist Statement</a>
       <a href="/portfolio.html" alttext="Portfolio">Bio</a>
       <a href="/portfolio.html" alttext="Portfolio">CV</a>-->
-    </p>
 </div>
