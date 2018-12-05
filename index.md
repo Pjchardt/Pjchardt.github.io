@@ -8,7 +8,7 @@ layout: home
 <div class="right">
     <p class="left">
       <a href="/portfolio.html" alttext="Portfolio">Portfolio</a>
-      <a href="/bio.html" alttext="Bio">Bio</a>
+      <h3><a href="/bio.html" alttext="Bio">Bio</a></h3>
       <!--<a href="/portfolio.html" alttext="Portfolio">Writings</a>
       <a href="/portfolio.html" alttext="Portfolio">Artist Statement</a>
       <a href="/portfolio.html" alttext="Portfolio">Bio</a>
