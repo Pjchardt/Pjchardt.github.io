@@ -6,9 +6,6 @@ layout: home
 ---
 
 <div class="right">
-  <div class="row">
-    <div class="col-xs-12">
-    </div>
     <p class="left">
       <a href="/portfolio.html" alttext="Portfolio">Portfolio</a>
       <a href="/bio.html" alttext="Bio">Bio</a>
@@ -17,5 +14,4 @@ layout: home
       <a href="/portfolio.html" alttext="Portfolio">Bio</a>
       <a href="/portfolio.html" alttext="Portfolio">CV</a>-->
     </p>
-  </div>
 </div>
