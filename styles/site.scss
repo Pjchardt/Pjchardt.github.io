@@ -49,7 +49,6 @@ body {
 }
 
 .huge-font {
-  font-family: 'Yantramanav', sans-serif;
   font-size: 84px;
   color: #373a3c;
 }
@@ -115,6 +114,10 @@ a:hover {
      display: none;
    }
 
+   .huge-font {
+     margin-left:-20px;
+   }
+
    .gif1 img {
        position: float; /* forces the element to stay fixed in relation to the viewport */
        top: 10%; /* sets the top of the image 50% of the page height */
@@ -135,17 +138,24 @@ a:hover {
      display: none;
    }
 
+   .huge-font {
+     font-size: 224px;
+     margin-top:-50px;
+     margin-left:-80px;
+     color: #373a3c;
+   }
+
    .gif1 img {
        position: fixed; /* forces the element to stay fixed in relation to the viewport */
        top: 10%; /* sets the top of the image 50% of the page height */
        left: 60%; /* sets the left side of the image 50% across the page */
        margin-left: -100px; /* moves the image half of its own width to the left-side of the page */
-       margin-top: -10px; /* moves the image half its height 'up' the page */
+       margin-top: 250px; /* moves the image half its height 'up' the page */
    }
 
    .gif2 img {
        position: float; /* forces the element to stay fixed in relation to the viewport */
-       margin-top: 10%; /* sets the top of the image 50% of the page height */
+       margin-top: 2%; /* sets the top of the image 50% of the page height */
        margin-left: -10%; /* sets the left side of the image 50% across the page */
    }
 }
