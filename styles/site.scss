@@ -14,11 +14,21 @@
   font-size: 2rem;
 }
 
+.navbar-name {
+  color:#fff;
+  font-size: 2rem;
+}
+
 /////////////////////////////////////////////
 
 //Home page//////////////////////////////////
 .home h1 {
-  
+  font-family: 'Yantramanav', sans-serif;
+  font-size:48px;
+}
+
+.home h1 a {
+  color: #373a3c;
 }
 /////////////////////////////////////////////
 
@@ -39,8 +49,9 @@ body {
 }
 
 .huge-font {
-  font-family: 'Archivo Black', sans-serif;
-  font-size: 300px;
+  font-family: 'Yantramanav', sans-serif;
+  font-size: 84px;
+  color: #373a3c;
 }
 
 h3 {
@@ -99,15 +110,42 @@ a:hover {
   margin-left: -30px;
 }
 
-
 @media (max-width: 768px){
   .hide-on-mobile {
      display: none;
+   }
+
+   .gif1 img {
+       position: float; /* forces the element to stay fixed in relation to the viewport */
+       top: 10%; /* sets the top of the image 50% of the page height */
+       margin-left: 5%; /* sets the left side of the image 50% across the page */
+   }
+
+   .gif2 img {
+       position: float; /* forces the element to stay fixed in relation to the viewport */
+       top: 10%; /* sets the top of the image 50% of the page height */
+       left: 60%; /* sets the left side of the image 50% across the page */
+       margin-left: -75px; /* moves the image half of its own width to the left-side of the page */
+       margin-top: -10px; /* moves the image half its height 'up' the page */
    }
 }
 
 @media (min-width: 769px) {
   .hide-on-desktop {
      display: none;
+   }
+
+   .gif1 img {
+       position: fixed; /* forces the element to stay fixed in relation to the viewport */
+       top: 10%; /* sets the top of the image 50% of the page height */
+       left: 60%; /* sets the left side of the image 50% across the page */
+       margin-left: -100px; /* moves the image half of its own width to the left-side of the page */
+       margin-top: -10px; /* moves the image half its height 'up' the page */
+   }
+
+   .gif2 img {
+       position: float; /* forces the element to stay fixed in relation to the viewport */
+       margin-top: 10%; /* sets the top of the image 50% of the page height */
+       margin-left: -10%; /* sets the left side of the image 50% across the page */
    }
 }
