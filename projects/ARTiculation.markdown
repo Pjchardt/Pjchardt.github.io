@@ -7,7 +7,7 @@ title:  "ARTiculation"
   <div class="row">
     <div class="col-xs-12">
     </div>
-      <div class="col-xs-8" style="padding-bottom:20px">
+      <div class="col-xs-12" style="padding-bottom:20px">
         <img src="/images/articulationTwo.jpg" class="img-responsive" alt="Articulation" style="padding-bottom: 2rem; max-width:100%">
       </div>
     </div>

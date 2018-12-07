@@ -79,6 +79,10 @@ p.left {
   background-color: #EEE;
 }
 
+p {
+  padding-bottom: 20px;
+}
+
 footer {
   font-size: 1.5rem;
   padding-left: 10px;
@@ -144,6 +148,10 @@ a:hover {
      margin-top:-50px;
      margin-left:-80px;
      color: #373a3c;
+   }
+
+   .sqrImages {
+     max-width: 65%;
    }
 
    .gif1 img {

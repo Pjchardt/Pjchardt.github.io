@@ -15,6 +15,6 @@ title:  "In White"
 
   <h3 align="left">In White</h3>
   <p>Wall mounted canvas that reacts to human touch with piano chords and melodies.</p>
-  <b>Festivals and Awards</b>
+  <b>Festivals</b>
   <p>Rules & Play 2015</p>
 </div>

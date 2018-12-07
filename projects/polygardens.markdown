@@ -5,9 +5,7 @@ title:  "Polygardens"
 
 <div class="right">
   <div class="row">
-    <div class="col-xs-12">
-    </div>
-      <div class="col-xs-8" style="padding-bottom:20px">
+      <div class="col-xs-12" style="padding-bottom:20px">
         <img src="/images/Polygardens.jpg" class="img-responsive" alt="Polygardens" style="padding-bottom: 1rem; max-width:100%">
       </div>
     </div>

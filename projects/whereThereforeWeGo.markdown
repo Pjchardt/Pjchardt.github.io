@@ -7,7 +7,7 @@ title:  "Where Therefore We Go"
   <div class="row">
     <div class="col-xs-12">
     </div>
-      <div class="col-xs-8" style="padding-bottom:20px">
+      <div class="col-xs-12" style="padding-bottom:20px">
         <img src="/images/whereThereforeWeGo_1.jpg" class="img-responsive" alt="Where Therefore We Go" style="padding-bottom: 1rem; max-width:100%">
       </div>
     </div>

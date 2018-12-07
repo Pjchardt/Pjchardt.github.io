@@ -7,8 +7,10 @@ title:  "Where Therefore We Go"
   <div class="row">
     <div class="col-xs-12">
     </div>
-      <div class="col-xs-8" style="padding-bottom:20px">
-        <img src="/images/aHorseWithTwoNames_1.jpg" class="img-responsive" alt="A Horse with Two Names" style="padding-bottom: 1rem; max-width:100%">
+      <div class="col-xs-12" style="padding-bottom:20px">
+        <div class="sqrImages">
+          <img src="/images/aHorseWithTwoNames_1.jpg" class="img-responsive" alt="A Horse with Two Names" style="padding-bottom: 1rem; max-width:100%">
+        </div>
       </div>
     </div>
   <h3 align="left">A Horse With Two Names</h3>
@@ -16,7 +18,7 @@ title:  "Where Therefore We Go"
     <div class="row">
       <div class="col-xs-12">
       </div>
-        <div class="col-xs-8" style="padding-bottom:20px">
+        <div class="col-xs-12" style="padding-bottom:20px">
           <img src="/images/aHorseWithTwoNames_2.jpg" class="img-responsive" alt="A Horse with Two Names" style="padding-bottom: 1rem; max-width:100%">
         </div>
       </div>
