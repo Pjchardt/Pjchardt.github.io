@@ -35,7 +35,7 @@
 body {
   //padding-top: 10px;
   padding-bottom: 25px;
-  font-size: 1.65rem;
+  font-size: 18px;
 }
 
 .containerLeft {
@@ -60,7 +60,7 @@ h3 {
 h3.left {
   margin: 0px;
   font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
-  font-size: 1.5rem;
+  font-size: 20px;
   line-height: 1.75;
   color: #373a3c;
   background-color: #eee;
@@ -77,10 +77,6 @@ p.left {
 
 .alternate {
   background-color: #EEE;
-}
-
-p {
-  padding-bottom: 20px;
 }
 
 footer {
@@ -102,12 +98,17 @@ a:hover {
 }
 
 .left a{
-    font-size: 1.6rem;
+    font-size: 18px;
+    line-height: 24px;
 }
 
 .right {
   padding-top: 5px;
   padding-bottom: 10px;
+}
+
+.right p {
+  padding-bottom: 20px;
 }
 
 .row {
