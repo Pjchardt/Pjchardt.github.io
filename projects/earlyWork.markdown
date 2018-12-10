@@ -47,7 +47,7 @@ title:  "Early Work"
     </div>
   </div>
   <div class="card">
-    <img class="card-img-top" src="/images/Untitled4.jpg" alt="untitled 4">
+    <img class="card-img-top" src="/images/untitled4.jpg" alt="untitled 4">
     <div class="card-body">
       <h5 class="card-title">untitled 4 [ink, wood, nails]</h5>
     </div>
