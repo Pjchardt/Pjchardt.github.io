@@ -9,15 +9,16 @@ layout: default_no_projects
     <div class="row" style="padding-left: 15px; padding-right: 15">
       <div class="col-xs-10 col-md-8">
         <p>
-          I began my practice as a printmaker. My love for process, template, and reproduction led to investigations with computer programming and game design. These investigations are at the intersection of my upbringing in the age of the Nintendo Entertainment System and the [re]production and serialization found in printmaking. The results of these investigations is my current practice.
+          I began my practice as a printmaker. Process, template, and reproduction led to investigations with computer programming and game design. These investigations are at the intersection of my childhood in the age of the Nintendo Entertainment System and the [re]production and serialization found in printmaking.
         </p>
         <p>
-          My work is about technology. I work to foster reflection and discourse around emerging technologies, specifically the technologies of virtual/augmented reality [VR/AR/MR] and artificial/machine intelligence. I am motivated by concern over the rapid pace of technological development and adoption within contemporary society.</p>
+          My work is about technology. I work to foster reflection and discourse around emerging technologies, specifically the technologies of virtual/augmented reality [VR/AR/MR] and artificial/machine intelligence. I am motivated by the rapid pace of technological development and adoption within contemporary society.
+          </p>
         <p>
-          Play is my primary medium. I utilize computer programming, hardware construction/reappropriation, and emerging technology to construct interactive spaces that are physical/    conceptual in form. These spaces are meant as “magic circles” for play as a method of investigation.
+          Play is my primary medium. I utilize computer programming, hardware construction/reappropriation, and emerging technology to construct interactive spaces that are physical/    conceptual in form. These spaces are meant as “magic circles” to facilitate investigation or reflection through play.
         </p>
         <p>
-          My work as been exhibited at FILE, Smithsonian, ALT.CTRL.GDC, and IndieCade. My game development studio RalphVR won Gold Prize in the international Oculus Mobile Virtual Reality competition in 2016. I am active in my home town of Lexington, Kentucky, helping build the non-profit gaming collective RunJumnpDev, as well as developing interactive shows and programming for all ages, including ARTiculation and Rules & Play.
+          My work as been exhibited at FILE, Smithsonian, ALT.CTRL.GDC, and IndieCade. Additionally I run my own game development studio RalphVR, that won Gold Prize in the international Oculus Mobile Virtual Reality competition in 2016. I am active in my home town of Lexington, Kentucky, helping build a non-profit gaming collective, as well as developing interactive shows and programming for all ages, including ARTiculation and Rules & Play.
         </p>
       </div>
     </div>
