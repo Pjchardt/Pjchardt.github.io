@@ -1,0 +1,219 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "variables";
+@import "bootstrap/bootstrap";
+@import "syntax-highlighting";
+@import "bootstrap-4-jekyll/bootstrap-4-jekyll";
+@import "bootstrap_customization";
+
+//Navibar///////////////////////////////////
+
+.navbar {
+    justify-content: flex-start;
+}
+
+.navbar-static-top {
+  background-color:#373a3c;
+}
+
+.navbar-brand {
+  color:#fff;
+  font-size: 1.25rem;
+  padding-right: 1rem;
+}
+
+.navbar-name {
+  color:#fff;
+  font-size: 1.25rem;
+}
+
+/////////////////////////////////////////////
+
+//Home page//////////////////////////////////
+.home {
+    margin-top: 25px;
+}
+
+.home h1 {
+  font-family: 'Yantramanav', sans-serif;
+  font-size:48px;
+}
+
+.home h1 a {
+  color: #373a3c;
+}
+/////////////////////////////////////////////
+
+body {
+  //padding-top: 10px;
+  padding-bottom: 25px;
+  font-size: 18px;
+}
+
+.container {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.card-body {
+  padding: .2rem;
+  background-color: #eee;
+}
+
+.card-title {
+  font-size: .9rem;
+  margin: 0rem;
+  color: #555;
+}
+
+.containerLeft {
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.embed-responsive {
+  margin-bottom: 25px;
+}
+
+#scrollable {
+  height: 625px;
+  overflow: auto;
+}
+
+.huge-font {
+  font-size: 84px;
+  color: #373a3c;
+}
+
+h3 {
+  margin-top: 0px;
+}
+
+h3.left {
+  margin: 0px;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  font-size: 20px;
+  line-height: 1.75;
+  color: #373a3c;
+  background-color: #eee;
+}
+
+p.left {
+  margin: 0px;
+}
+
+.videoFormat {
+  padding-left: 0px;
+  padding-bottom: 20px;
+}
+
+.alternate {
+  background-color: #EEE;
+}
+
+footer {
+  font-size: 1.5rem;
+  padding-left: 10px;
+}
+
+hr {
+  border-top: 1px solid #AAA;
+}
+
+a {
+    color: #445;
+    display: block;
+}
+
+a:hover {
+  color: #999;
+}
+
+.left a{
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.right {
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
+
+.right p {
+  padding-bottom: 20px;
+}
+
+.row {
+  margin-left: -20px;
+}
+
+@media (max-width: 768px){
+  .hide-on-mobile {
+     display: none;
+   }
+
+   .huge-font {
+     margin-left:-20px;
+   }
+
+   .gif1 img {
+       position: float; /* forces the element to stay fixed in relation to the viewport */
+       top: 10%; /* sets the top of the image 50% of the page height */
+       margin-left: 5%; /* sets the left side of the image 50% across the page */
+   }
+
+   .gif2 img {
+       position: float; /* forces the element to stay fixed in relation to the viewport */
+       top: 10%; /* sets the top of the image 50% of the page height */
+       left: 60%; /* sets the left side of the image 50% across the page */
+       margin-left: -75px; /* moves the image half of its own width to the left-side of the page */
+       margin-top: -10px; /* moves the image half its height 'up' the page */
+   }
+
+   .gif3 img {
+       margin-left: -5px; /* moves the image half of its own width to the left-side of the page */
+   }
+}
+
+@media (min-width: 769px) {
+  .hide-on-desktop {
+     display: none;
+   }
+
+   .huge-font {
+     font-size: 224px;
+     margin-top:-50px;
+     margin-left:-80px;
+     color: #373a3c;
+   }
+
+   .sqrImages {
+     max-width: 65%;
+   }
+
+   #scrollable {
+     margin-left: 5px;
+   }
+
+   .gif1 img {
+       position: fixed; /* forces the element to stay fixed in relation to the viewport */
+       top: 10%; /* sets the top of the image 50% of the page height */
+       left: 60%; /* sets the left side of the image 50% across the page */
+       margin-left: -100px; /* moves the image half of its own width to the left-side of the page */
+       margin-top: 250px; /* moves the image half its height 'up' the page */
+   }
+
+   .gif2 img {
+       position: float; /* forces the element to stay fixed in relation to the viewport */
+       margin-top: 2%; /* sets the top of the image 50% of the page height */
+       margin-left: -10%; /* sets the left side of the image 50% across the page */
+   }
+
+   .gif3 img {
+       position: float; /* forces the element to stay fixed in relation to the viewport */
+       margin-top: 2%; /* sets the top of the image 50% of the page height */
+       margin-left: -15%; /* sets the left side of the image 50% across the page */
+   }
+}
