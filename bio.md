@@ -5,7 +5,7 @@
 layout: default_no_projects
 ---
 <div class="right">
-        <img src="/images/headshot_2017.jpg" class="img-responsive" alt="richie photo" style="padding-bottom: 2rem; max-height:380px; max-height: auto">
+        <img src="/images/headshot_2017.jpg" class="img-responsive" alt="richie photo" style="padding-bottom: 2rem; padding-left: 15px; padding-right: 15px; max-height:380px; ">
     <div class="row" style="padding-left: 15px; padding-right: 15">
       <div class="col-xs-10 col-md-8">
         <p>
