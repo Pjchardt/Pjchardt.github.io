@@ -16,5 +16,5 @@ title:  "Virtual Realities"
     <iframe src="https://player.vimeo.com/video/298001689" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     <br>
   </div>
-  <p style="padding-top:20px"> <a href="https://medium.com/the-controllers/virtual-realities-9bb47a438c50">Link to information about The Controllers</a> </p>
+  <p> <a href="https://medium.com/the-controllers/virtual-realities-9bb47a438c50">Link to information about The Controllers</a> </p>
 </div>
