@@ -18,7 +18,7 @@ layout: default_no_projects
           Play is my primary medium. I utilize computer programming, hardware construction/reappropriation, and emerging technology to construct interactive spaces that are physical/    conceptual in form. These spaces are meant as “magic circles” to facilitate investigation or reflection through play.
         </p>
         <p>
-          My work as been exhibited at FILE, Smithsonian, ALT.CTRL.GDC, and IndieCade. Additionally I run my own game development studio RalphVR, that won Gold Prize in the international Oculus Mobile Virtual Reality competition in 2016. I am active in my home town of Lexington, Kentucky, helping build a non-profit gaming collective, as well as developing interactive shows and programming for all ages, including ARTiculation and Rules & Play.
+          My work as been exhibited at FILE, Smithsonian, ALT.CTRL.GDC, and IndieCade. Additionally I run my own game development studio RalphVR that won Gold Prize in the international Oculus Mobile Virtual Reality competition in 2016. I am active in my home town of Lexington, Kentucky, helping build a non-profit gaming collective, as well as developing interactive shows and programming for all ages, including ARTiculation and Rules & Play.
         </p>
       </div>
     </div>

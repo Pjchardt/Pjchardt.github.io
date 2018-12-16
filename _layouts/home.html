@@ -2,8 +2,10 @@
 
 {% include header_minimal.html %}
 
-<div>
-  {{ content }}
-</div>
+<body onLoad="InitializeWebGL()" style="background-color:currentColor">
+  <div>
+    {{ content }}
+  </div>
+</body>
 
 {% include footer.html %}

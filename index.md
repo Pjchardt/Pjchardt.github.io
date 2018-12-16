@@ -3,6 +3,8 @@ layout: home
 #title: Richard Hoagland
 ---
 
+<canvas id="shader_1" width="640" height="480"></canvas>
+
 <div class="right">
   <div class="row" style="margin-left:0px">
     <div class="col-xs-10 col-sm-6 col-md-4" style="padding-bottom:10px">
@@ -17,6 +19,9 @@ layout: home
     </div>
   </div>
 </div>
+
+
+
 
 <!--
 A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).

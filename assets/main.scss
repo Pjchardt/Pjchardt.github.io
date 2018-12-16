@@ -149,6 +149,16 @@ a:hover {
   margin-left: -20px;
 }
 
+canvas {
+  border: 1px solid gray;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width:100vw;
+  height: 100vh;
+  pointer-events: none
+}
+
 @media (max-width: 768px){
   .hide-on-mobile {
      display: none;
