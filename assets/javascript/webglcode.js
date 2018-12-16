@@ -53,11 +53,13 @@ function InitializeWebGL() {
             'void main(void) {'+
                'vec2 st = gl_FragCoord.xy/resolution;'+
                'vec3 color = vec3(0.0);'+
-               'st.x += sin(time + sin(st.y)* (sin(time*.25) * 1000.)) * .05;'+
+               //'st.x += sin(time + sin(st.y)* (sin(time*.25) * 1000.)) * .05;'+
+               'st.x += sin(time*.01 + sin(st.y)* (sin(time*.025) * 1000.)) * .05;'+
+               'st.y += cos(time + sin(st.x)* (cos(time) * 1000.)) * .1;'+
                'vec2 pos = vec2(0.5)-st;'+
                'float r = length(pos)*1.0*sin(time*.1)+.5;'+
                'float a = atan(pos.y,pos.x);'+
-               'a = time*.01+sin(a);'+
+               'a = time*.1+sin(a);'+
 
                'float aAnim = (time*.1+a);'+
                'float f = abs(cos(aAnim*12.)*sin(a*3.))*.8+.1;'+
@@ -65,7 +67,10 @@ function InitializeWebGL() {
                'color = vec3( 1.-smoothstep(f,f-0.05,r)-(smoothstep(f, f+.05,r)) );'+
                'color += vec3( 1.-smoothstep(f,f-0.2,r)-(smoothstep(f, f+.2,r)), .0, .0 );'+
                'color += vec3( 0.0, 0.0, (1.-smoothstep(f,f-0.5,r)-(smoothstep(f, f+.4,r))*2.));'+
-               'gl_FragColor = vec4(color, step(.1, color));'+
+
+               'float gray = dot(color, vec3(0.299, 0.587, 0.114));'+
+               'gl_FragColor = vec4(vec3(1.0-gray), step(.9, 1.0-color));'+
+               //'gl_FragColor = vec4(color, step(.1, color));'+
 
                //'gl_FragColor = vec4(vColor * gl_FragCoord.xyz, abs(sin(time)));'+
             '}';
