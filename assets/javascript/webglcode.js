@@ -54,14 +54,14 @@ function InitializeWebGL() {
                'vec2 st = gl_FragCoord.xy/resolution;'+
                'vec3 color = vec3(0.0);'+
                //'st.x += sin(time + sin(st.y)* (sin(time*.25) * 1000.)) * .05;'+
-               'st.x += sin(time*.01 + sin(st.y)* (sin(time*.025) * 1000.)) * .05;'+
-               'st.y += cos(time + sin(st.x)* (cos(time) * 1000.)) * .1;'+
+               'st.x += sin(time*.0001 + sin(st.y)* (sin(time*.00025) * 1000.)) * .05;'+
+               'st.y += cos(time*.01 + sin(st.x)* (cos(time*.01) * 1000.)) * .1;'+
                'vec2 pos = vec2(0.5)-st;'+
-               'float r = length(pos)*1.0*sin(time*.1)+.5;'+
+               'float r = length(pos)*1.0*sin(time*.001)+.5;'+
                'float a = atan(pos.y,pos.x);'+
-               'a = time*.1+sin(a);'+
+               'a = time*.001+sin(a);'+
 
-               'float aAnim = (time*.1+a);'+
+               'float aAnim = (time*.001+a);'+
                'float f = abs(cos(aAnim*12.)*sin(a*3.))*.8+.1;'+
 
                'color = vec3( 1.-smoothstep(f,f-0.05,r)-(smoothstep(f, f+.05,r)) );'+
