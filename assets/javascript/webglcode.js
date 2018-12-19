@@ -1,8 +1,12 @@
+var canvas;
+var gl;
 
 function InitializeWebGL() {
   /*=================Creating a canvas=========================*/
-         var canvas = document.getElementById('shader_1');
+         canvas = document.getElementById('shader_1');
          gl = canvas.getContext('webgl');
+         window.addEventListener('resize', resizeCanvas, false);
+         resizeCanvas();
 
          /*===========Defining and storing the geometry==============*/
 
@@ -170,4 +174,9 @@ function InitializeWebGL() {
          }
          animate(0);
 
+}
+
+function resizeCanvas() {
+  canvas.width = window.innerWidth;
+  canvas.height = window.innerHeight;
 }

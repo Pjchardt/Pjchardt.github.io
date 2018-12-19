@@ -3,7 +3,7 @@ layout: home
 #title: Richard Hoagland
 ---
 
-<canvas id="shader_1" width="640" height="480"></canvas>
+<canvas id="shader_1"></canvas>
 
 <div class="right">
   <div class="row" style="margin-left:0px">
