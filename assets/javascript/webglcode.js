@@ -50,7 +50,7 @@ function InitializeWebGL() {
                'vColor = color;'+
             '}';
 
-         var fragCode = 'precision highp float;'+
+         var fragCode = 'precision mediump float;'+
             'varying vec3 vColor;'+
             'uniform float time;'+
             'uniform vec2 resolution;'+
@@ -158,12 +158,12 @@ function InitializeWebGL() {
             var timeOffset = time + offset;
             time_old = timeOffset;
 
-            gl.enable(gl.DEPTH_TEST);
-            gl.depthFunc(gl.LEQUAL);
+            //gl.enable(gl.DEPTH_TEST);
+            //gl.depthFunc(gl.LEQUAL);
             gl.clearColor(0.0, 0.0, 0.0, 0.0);
             gl.clearDepth(1.0);
-            gl.viewport(0.0, 0.0, gl.canvas.width, gl.canvas.height);
-            gl.clear(gl.COLOR_BUFFER_BIT | gl.DEPTH_BUFFER_BIT);
+            //gl.viewport(0.0, 0.0, gl.canvas.width, gl.canvas.height);
+            gl.clear(gl.COLOR_BUFFER_BIT);
 
             gl.uniformMatrix4fv(Pmatrix, false, proj_matrix);
             gl.uniformMatrix4fv(Vmatrix, false, view_matrix);
