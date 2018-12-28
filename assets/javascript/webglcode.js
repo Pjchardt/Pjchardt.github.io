@@ -4,6 +4,10 @@ function InitializeWebGL() {
          var canvas = document.getElementById('shader_1');
          gl = canvas.getContext('webgl');
 
+         GrabHaiku();
+
+         window.setInterval(GrabHaiku, 180000);
+
          /*===========Defining and storing the geometry==============*/
 
          var vertices = [
@@ -144,11 +148,15 @@ function InitializeWebGL() {
 
          /*=================Drawing===========================*/
 
+         const milliDay = 86400000;
+         var d = new Date();
+         var offset = Math.floor(milliDay/10 * Math.random());// d.getTime()%milliDay + Math.floor(Math.random() * milliDay);
          var time_old = 0;
          var animate = function(time) {
             var dt = time-time_old;
             //rotateZ(mov_matrix, dt*0.002);
-            time_old = time;
+            var timeOffset = time + offset;
+            time_old = timeOffset;
 
             gl.enable(gl.DEPTH_TEST);
             gl.depthFunc(gl.LEQUAL);
@@ -161,7 +169,7 @@ function InitializeWebGL() {
             gl.uniformMatrix4fv(Vmatrix, false, view_matrix);
             gl.uniformMatrix4fv(Mmatrix, false, mov_matrix);
 
-            gl.uniform1f(timeLocation, time/1000);
+            gl.uniform1f(timeLocation, timeOffset/1000);
             gl.uniform2f(resolutionLocation, gl.canvas.width, gl.canvas.height);
 
             gl.bindBuffer(gl.ELEMENT_ARRAY_BUFFER, index_buffer);
@@ -169,5 +177,31 @@ function InitializeWebGL() {
             window.requestAnimationFrame(animate);
          }
          animate(0);
+}
 
+function GrabHaiku() {
+  const proxyurl = "https://sleepy-oasis-47738.herokuapp.com/";
+  const haikurl='http://142.93.240.55/getHaiku';
+
+  fetch(proxyurl + haikurl)
+  .then(function(data) {
+    if (data.status == 200) {
+        return data.json();
+    }
+    else {
+      return null;
+    }
+  })
+  .then (function(myJson) {
+    if (myJson == null) {
+      return;
+    }
+    console.log(JSON.stringify(myJson));
+    document.getElementById("lineOne").innerHTML = myJson.lineOne;
+    document.getElementById("lineTwo").innerHTML = myJson.lineTwo;
+    document.getElementById("lineThree").innerHTML = myJson.lineThree;
+  })
+  .catch(function(error) {
+    console.log(error);
+  });
 }

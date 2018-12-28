@@ -33,7 +33,7 @@
 
 //Home page//////////////////////////////////
 .home {
-    margin-top: 25px;
+    margin-top: 10px;
 }
 
 .home h1 {
@@ -147,6 +147,23 @@ a:hover {
 
 .row {
   margin-left: -20px;
+}
+
+.haikuContainer {
+  background-color: #373a3c;
+  padding: 10px;
+  max-width: 250px;
+}
+
+.haikuContainer h4{
+  color: #eee;
+  font-size: .9em;
+}
+
+.haikuContainer a{
+  color: #eee;
+  font-size: .8em;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
 }
 
 canvas {

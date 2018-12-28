@@ -11,6 +11,12 @@ layout: home
       <div class="home">
         <h1><a href="/portfolio.html" alttext="Portfolio">Portfolio</a></h1>
         <h1><a href="/bio.html" alttext="Bio">Bio</a></h1>
+        <div class="haikuContainer">
+        <h4 id="lineOne">null</h4>
+        <h4 id="lineTwo">null</h4>
+        <h4 id="lineThree">null</h4>
+        <a href="/projects/tillyAndTelly.html" alttext="TillyAndTelly">what is this haiku?</a>
+        </div>
         <!--<a href="/portfolio.html" alttext="Portfolio">Writings</a>
         <a href="/portfolio.html" alttext="Portfolio">Artist Statement</a>
         <a href="/portfolio.html" alttext="Portfolio">Bio</a>

@@ -14,5 +14,5 @@ title:  "Daydream Blue"
   <h3 align="left">Daydream Blue</h3>
   <p>Multiplayer VR game. Relax in a magical valley with your whimsical robot buddy.</p>
   <b> Festivals and Awards</b>
-  <p>IndieCade VR Selects, Busan Indie Connect, FILE Festival, Technolopolis Argentina, PAX East 2016, Smithsonian Indie Arcade, Gold Winner Oculus Mobile VR Jam</p>
+  <p>IndieCade VR Selects, FILE Festival, Busan Indie Connect, Technolopolis Argentina, PAX East 2016, Smithsonian Indie Arcade, Gold Winner Oculus Mobile VR Jam, IMGA Finalist</p>
 </div>
