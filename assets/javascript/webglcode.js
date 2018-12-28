@@ -50,7 +50,7 @@ function InitializeWebGL() {
                'vColor = color;'+
             '}';
 
-         var fragCode = 'precision mediump float;'+
+         var fragCode = 'precision highp float;'+
             'varying vec3 vColor;'+
             'uniform float time;'+
             'uniform vec2 resolution;'+
