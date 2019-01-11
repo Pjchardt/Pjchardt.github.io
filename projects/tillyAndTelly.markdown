@@ -13,6 +13,7 @@ title:  "tilly and telly"
 
     <h3 align="left">Tilly and Telly (work in progress)</h3>
     <p>Tilly [<a style="display:inline" href="/projects/mLA1.html" alttext="mLA 1 link">mLA 1</a>] sits in an empty room watching network television on an old cathode ray television. Tilly writes haiku about the television programming 24 hours a day, sending the haiku to a server. An API allows anyone to request the latest haiku from the server. Currently the haiku is displayed on the home page of this site.</p>
+    <p>note: At times the haiku online will not update, as Tilly is still under development and not always feeling up to posting.<p> 
     <b>Materials</b>
     <p style="padding-bottom:30px">Custom software, hardware mounted on oak, cathode ray TV, digital to analog converter, digital antenna</p>
 
