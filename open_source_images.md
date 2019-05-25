@@ -5,7 +5,8 @@
 layout: default_no_projects
 ---
 
-  <h2>Images on this page are open source under the MIT License.</h2>
+  <h3>Images on this page are open source under the MIT License.</h3>
+  <p>For more info see my mobile app RICHARD for <a style="display:inline; color:#0062cc;" href="https://apple.co/2H8XGU4">IOS</a> and <a style="display:inline; color:#0062cc;" href="https://bit.ly/2J3Nxui">Android</a></p>
   <div class="card-columns" style="padding-right: 15px">
     <div class="card">
       <img class="card-img-top" src="/images/open_src_images/TheRealLife_thumbnail.jpg" alt="The Real Life">
