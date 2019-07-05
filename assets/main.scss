@@ -71,11 +71,23 @@ body {
 
 .containerLeft {
   margin-top: 20px;
-  margin-left: 20px;
+  //margin-left: 20px;
 }
 
 .embed-responsive {
   margin-bottom: 25px;
+}
+
+.spacing-small {
+  padding-top: 50px;
+}
+
+.spacing-small {
+  padding-top: 50px;
+}
+
+.spacing-large {
+  padding-top: 100px;
 }
 
 #scrollable {
@@ -147,7 +159,8 @@ a:hover {
 }
 
 .row {
-  margin-left: -20px;
+  margin-left: 0px;
+  margin-right: 0px;
 }
 
 .haikuContainer {
