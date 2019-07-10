@@ -4,8 +4,8 @@ title:  "Virtual Realities"
 ---
 
 <div class="right">
-  <div class="col-xs-12" style="padding-bottom:20px">
-    <iframe src="https://player.vimeo.com/video/298001689" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  <div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/298001689" webkitallowfullscreen mozallowfullscreen allowfullscreen ></iframe>
   </div>
 
   <h3 align="left">Virtual Realities</h3>

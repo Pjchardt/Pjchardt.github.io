@@ -8,7 +8,7 @@ title:  "simulated video"
 
   <h3 align="left">Simulated Video</h3>
   <p>
-    This project uses video game technologies to render dynamic videos in real time. Due to the video game technologies, videos can be: reactive to the environment, generative in their audio/visual output, and dynamic simulations.
+    This project uses video game technologies to render dynamic videos in real time in order to challenge superficial perceptions of the space.
   </p>
 
   <div class="spacing-small"></div>
@@ -16,9 +16,9 @@ title:  "simulated video"
   <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/304935367" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   </div>
-  <h4 align="left">morphology</h4>
+  <h4 align="left">drone</h4>
   <p>
-    3d model of a face is pushed and pulled in an endless cycle of morphing, expanding, and restarting. The forces on the face are generated randomly, no two faces will be alike.
+    3d model of a face in an endless cycle of expanding, morphing, and restarting.
   </p>
 
   <div class="spacing-small"></div>

@@ -5,10 +5,8 @@ title:  "Artifact Cupcake"
 
 <div class="right">
 
-  <p><i>[note: page under construction, still documenting the show.]</i></p>
-
   <div class="col-xs-12" style="padding-bottom:20px">
-    <img src="/images/placeholder_image.jpg" class="img-responsive" alt="Artifact Cupcake" style="padding-bottom: 2rem; max-width:100%">
+    <img src="/images/artifact_cupcake_header_image.jpg" class="img-responsive" alt="Artifact Cupcake" style="padding-bottom: 2rem; max-width:100%">
   </div>
 
   <h3 align="left">Artifact Cupcake</h3>
@@ -27,14 +25,14 @@ title:  "Artifact Cupcake"
   </div>
   <h4 align="left">Tilly Performance</h4>
   <p>
-    Tilly performed during gallery hop and during the Artifact Cupcake opening. Every minute a new haiku was generated and printed on thermal receipt printer paper.
-    More information about Tilly on <a style="display:inline; color:#0062cc;" href="/projects/tilly.html">Tilly's project page</a>.
+    Tilly performed during gallery hop and during the Artifact Cupcake opening. Every minute a new haiku was generated and printed on thermal receipt printer paper. The haiku collected at the base of the pedestal as one continuous scroll of receipt paper. More information about Tilly on <a style="display:inline; color:#0062cc;" href="/projects/tilly.html">Tilly's project page</a>.
   </p>
 
   <div class="spacing-small"></div>
 
   <div class="col-xs-12" style="padding-bottom:20px">
-    <img src="/images/placeholder_image.jpg" class="img-responsive" alt="Placeholder image" style="padding-bottom: 2rem; max-width:100%">
+    <img src="/images/artifact_cupcake_1.jpg" class="img-responsive" alt="Placeholder image" style="padding-bottom: 2rem; width:100%">
+    <img src="/images/artifact_cupcake_augmented_1.gif" class="img-responsive" alt="Placeholder image" style="padding-bottom: 2rem; width:100%">
   </div>
   <h4 align="left">Artifact Cupcake</h4>
   <p>
@@ -44,8 +42,8 @@ title:  "Artifact Cupcake"
   <div class="spacing-small"></div>
 
   <div class="col-xs-12" style="padding-bottom:20px">
-    <img src="/images/high_fructose_installation_1.jpg" class="img-responsive" alt="High Fructose installation" style="padding-bottom: 2rem; max-width:100%">
-    <img src="/images/high_fructose_installation_1.jpg" class="img-responsive" alt="High Fructose installation" align="right" style="padding-bottom: 2rem;  max-width:100%">
+    <img src="/images/high_fructose_installation_1.jpg" class="img-responsive" alt="High Fructose installation" style="padding-bottom: 2rem; max-width:48%">
+    <img src="/images/high_fructose_augmented_1.gif" class="img-responsive" alt="High Fructose installation" align="right" style="padding-bottom: 2rem;  max-width:48%">
     <img src="/images/augmented_sugar_1.jpg" class="img-responsive" alt="Augmented Sugar Detail" style="padding-bottom: 2rem; width:100%">
   </div>
   <h4 align="left">High Fructose</h4>
@@ -58,10 +56,11 @@ title:  "Artifact Cupcake"
   <h4 align="left">The Real Life</h4>
 
   <div class="col-xs-12" style="padding-bottom:20px">
-    <img src="/images/placeholder_image.jpg" class="img-responsive" alt="placeholder image" style="padding-bottom: 2rem; max-width:100%">
+    <img src="/images/the_real_life_3.jpg" class="img-responsive" alt="placeholder image" style="padding-bottom: 2rem; max-width:62%">
+    <img src="/images/the_real_life_augmented_1.gif" class="img-responsive" alt="placeholder image" style="padding-bottom: 2rem; max-width:34%">
   </div>
   <p>
-    Installation. High Fructose print (edition of 13 with receipt of sale, open source image), five editions of Augmented Sugar (edition of 13 with receipt of sale, open source 3d data), as well as accompanying receipt of sales. Augmented Sugar is a 3d PLC print based on augmented data captured form Cupcake using Photogrammetry.
+    Installation. The Real Life print (edition of 13 with receipt of sale, open source image), receipt of sale, lamp, and incomplete 3d print of cupcake housed in gift box.
   </p>
 
   <div class="spacing-small"></div>
@@ -71,13 +70,13 @@ title:  "Artifact Cupcake"
   </div>
   <h4 align="left">Cupcake</h4>
   <p>
-    Purchased from local bakery. 3D and 2D data was captured using photography and photogrammetry.
+    Purchased from local bakery. All of the cupcake imagery in the show was derived from 3D and 2D data captured from this cupcake using photography and photogrammetry.
   </p>
 
   <h4 align="left">Additional Images</h4>
-  <p>to be added</p>
-  <!--<div class="col-xs-12" style="padding-bottom:20px">
-    <img src="/images/high_fructose_installation.jpg" class="img-responsive" alt="High Fructose installation" style="padding-bottom: 2rem; max-width:100%">
-  </div>-->
+  <div class="col-xs-12" style="padding-bottom:20px">
+    <img src="/images/RICHARD_app_download_prompt.jpg" class="img-responsive" alt="View of RIchard App download information" style="padding-bottom: 2rem; width:100%">
+    <img src="/images/golden_detritus_1.jpg" class="img-responsive" alt="Photo of Golden Detritus" style="padding-bottom: 2rem; width:100%">
+  </div>
 
 </div>
