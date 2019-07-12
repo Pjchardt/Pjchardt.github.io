@@ -9,16 +9,13 @@ layout: default_no_projects
     <div class="row" style="padding-left: 15px; padding-right: 15">
       <div class="col-xs-10 col-md-8">
         <p>
-          I am a traditional printmaker turned software programmer and hardware hacker. My early practice explored qualities inherent to printmaking with an emphasis on process and reproducibility. These experiments carried through and merged with my interest in video game media and self-taught software/hardware competency informing my current practice of constructing “generative experiences”.
+          I began as a traditional printmaker. Then I made games. As a consequence of my career developing digital games I became an entrepreneur, building two boutique style interactive software companies. Now I write code, hack on hardware, and perform.
         </p>
         <p>
-          I utilize tools, skills, and concepts of commercial video game development, experimental game design, entrepreneurship, emerging technology, and installation/demonstration. My work manifests as interactive software applications. These games and apps are engaged with by the audience members via a variety of means: mass-produced devices, such as game controllers and VR rigs, custom-built hardware, such as a machine that observes the world and constructs haiku about its environment.
+        In my practice I utilize the tools of game design, entrepreneurialism, emerging technologies, and installation/demonstration. My work takes the form of projects, each project encompassing research, open sourced material, and one or more works. These works manifest as interactive installations and  software applications.
         </p>
         <p>
-          My intention is to construct dynamic art environments where interaction and play encourage dialogue between the system and the user. My goal is to foster critical engagement by the user with the cultural and social field of emerging technologies. Specifically, as an artist, I am concerned with the cultural and personal implications of emerging technologies and their adoption.
-        </p>
-        <p>
-          Most of my work is presented at exhibitions, taking the form of physical spaces where participants play with the software system through specific interaction devices. My work has been exhibited at FILE, Smithsonian, ALT.CTRL.GDC, and IndieCade.
+        In the past, much of my work was presented at exhibitions and festivals, such as FILE, Smithsonian, ALT.CTRL.GDC, and IndieCade. Recently, I have been active showing in galleries and alternative spaces.  
         </p>
       </div>
     </div>
