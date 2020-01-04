@@ -1,0 +1,79 @@
+---
+layout: blog
+title:  "Jan. 3rd, 2020"
+---
+# January 3rd, 2020
+I intend to complete a project, or a portion of a project, each week in 2020. The capstone for this each week is an article reviewing the work accompanied by some social media posts (trying to get back into doing that). As it is Friday and I don’t have a project yet, this first article will just be an outline about my goal for this year.
+
+Except it won’t really
+
+Although I want to outline my plans (open source code as much as possible, documenting and sharing regardless of success/failure of the week...some other things I need to define) what keeps my attention is the tension I feel as soon as I try to predetermine my time/energy.
+
+1. I am unreasonable about my own time constraints.
+2. I get involved in too many projects.
+3. I rarely see projects through to completion.
+
+Forcing myself to make something each week AND share it under time constraints hopefully leads to interesting, creative, and experimental results
+
+However…
+
+*There was several paragraphs here about myself, and discipline, and so on. That was boring, and not what I want this to be about, so instead here are some things*
+
+**There are seventeen butts subversively placed within La donna è mobile” from Verdi’s Rigoletto.** 
+
+First, a construction of marvel with the help of an engineer in 1867. 
+
+The second--much larger--was closed to the public on condition the basin be opened up for excavations.
+
+Two next...butts made..in 1897 by a Dutch architect. The latter butt claimed its own unique history.
+
+Both butts were situated near the Varese at the centre of the River Chambord, in a region almost entirely devoid of traditional monuments depicting their immediate surroundings.
+
+**TWO**
+
+{::options parse_block_html="true" /}
+<div class="code">
+
+>umbrella laying  
+>&nbsp;&nbsp;umbrella standing riding  
+>&nbsp;&nbsp;umbrella holding  
+
+>abstract texture sheep  
+>&nbsp;&nbsp;abstract texture umbrella  
+>&nbsp;&nbsp;abstract texture dog  
+
+>pizza video  
+>&nbsp;&nbsp;room video cat young cat  
+>&nbsp;&nbsp;watching video
+
+A series of haiku my robot [Tilly](https://richardhoag.land/projects/tilly.html "better artist?") crafted.  
+  
+**THREE**  
+
+I hate most artists bios. Including my own. So now my bio links to this conspiracy theorist fella with a penchant for mars who has the same surname and given name. You should read
+ [his bio](https://en.wikipedia.org/wiki/Richard_C._Hoagland "better artist?"), probably better time spent there than here.  
+
+**FOUR**
+
+</div>
+ {::options parse_block_html="false" /}
+
+<img style="max-width:100%" src="{{ site.baseurl }}/images/fridays2020/Jan_03_2020_1.jpg" alt="art!">
+
+----  
+
+The final butts began construction almost immediately after the originals. In 1889 at the time of construction the River Chambord was being widened to a depth of just under a hundred meters, but a few engineers still hoped to place the new butts within the river. The following year the engineers were replaced again by the company, this having happened the previous two years due to mismanagement. By the start of the 19th century most of the butts whose construction was complete served as a number of important public buildings, the first of which was the E.C.G. gallery in La Plata. Today the E.C.G. is used for almost all major works held by the city, including a collection of a few hundred photographs of the butts during construction.  
+
+----  
+
+<div style="text-align: center">
+    <img style="max-width:100%" src="{{ site.baseurl }}/images/fridays2020/Jan_03_2020_2.gif" alt="arf!">
+</div>
+
+<div style="text-align: center">
+    <img style="max-width:100%" src="{{ site.baseurl }}/images/fridays2020/Jan_03_2020_3.gif" alt="art!">
+</div>
+
+
+
+

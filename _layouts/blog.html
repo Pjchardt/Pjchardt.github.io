@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {% include head.html %}
+<head>
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/styles/blog.css">
+</head>
+
+
+    <div class="blog col-md-6 offset-md-3 col-12 px-4">
+        {{ content }}
+    </div>

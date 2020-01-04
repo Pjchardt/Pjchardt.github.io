@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Courier+Prime&display=swap');
+
+.code {
+    font-family: 'Courier Prime', monospace;
+}
+
+.blog a {
+    display: inline;
+    color: #ff69b4;
+}
