@@ -1,0 +1,56 @@
+---
+layout: blog
+title:  "Jan. 10th, 2020"
+---
+<head>
+    <script src="{{ site.baseurl }}/assets//javascript/Dulaunay.js"></script>
+    <script src="{{ site.baseurl }}/assets/javascript/p5js_sketch_1.js"></script>
+</head>
+
+<script>
+    $('body').css({'background-color' : 'black', 'color' : 'green'});
+</script>
+
+# January 10th, 2020 
+
+<div class="pb-4 pt-4" style="text-align: center">    
+    <figure class="figure text-center">
+        <img src="{{ site.baseurl }}/images/fridays2020/Jan_10_2020_1.gif" class="img-fluid" alt="art!">
+        <figcaption class="figure-caption">View of the sunrise from an airplane window while a passenger stares at me.</figcaption>
+    </figure>    
+</div>
+
+There was a grasshopper with the head of a dog on the airplane I rode into New York City. What really spiked my tea though was that it was the head of MY dog. I called home and my dog is okay, somehow this asshole made a life size realistic replica of my dog and wore it THE WHOLE TIME from Lexington to NYC just...why? To upset me? Anyway it made for a nice sunrise so I made art out of it.
+
+*Next up we have some computer art. Exhibit one:*
+
+<div class="p5js pb-4 pt-5" id="sketch-holder">
+      <!-- Our sketch will go here! -->
+</div>
+
+**STILL LIFE STILL LIFE STILL LIFE STILL LIFE STILL LIFE STILL LIFE STILL LIFE STILL LIFE STILL LIFE**
+
+<div class="text-center">    
+    <figure class="figure">
+        <img src="{{ site.baseurl }}/images/fridays2020/Jan_10_2020_2.jpg" class="img-fluid" alt="still life of the sun">
+        <figcaption class="figure-caption">Still life of the sun as viewed over New Jersey on Tuesday mornings when the temperature is below 52 degrees.</figcaption>
+    </figure>    
+</div>
+
+----
+
+I went to the Mana Contemporary in Jersey City today. They had a large collection of Warhol screenprints. I was looking at his series of Mao and it struck me they looked like defaced money, which got me thinking...that son of a bitch figured out how to print money. Literally, that willy fella made his own vibrant, oversized, spectacualr currency complete with famous folks adornig the bills. Inspired I wrote a poem.
+
+{::options parse_block_html="true" /}
+<div class="code">
+
+>Andy Warhol  
+>&nbsp;&nbsp;Figured out how to print money  
+>&nbsp;&nbsp;But it didn’t stop him from rotting
+
+</div>
+{::options parse_block_html="false" /}
+
+----  
+
+

@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Courier+Prime&display=swap');
 
+.menu_button {
+    padding-top: 250px;
+}
+
 .code {
     font-family: 'Courier Prime', monospace;
 }
@@ -7,4 +11,8 @@
 .blog a {
     display: inline;
     color: #ff69b4;
+}
+
+.p5js canvas {
+    max-width: 100%;
 }
