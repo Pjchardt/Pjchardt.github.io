@@ -1,0 +1,73 @@
+---
+layout: blog
+title:  "Jan. 17th, 2020"
+---
+<head>
+    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+    <script src="https://cdn.JsDelivr.net/npm/ccapture.js"></script>
+    <script src="{{ site.baseurl }}/assets/javascript/gif.worker.js"></script> 
+    <script src="{{ site.baseurl }}/assets//javascript/Dulaunay.js"></script>
+    <script src="{{ site.baseurl }}/assets/javascript/p5js_sketch_2.js"></script>
+</head>
+
+<script>
+    $('body').css({'background-color' : 'black', 'color' : 'green'});
+</script>
+
+# January 17th, 2020 
+
+<div class="p5js pb-4 pt-2" id="sketch-holder">
+      <!-- Our sketch will go here! -->
+</div>
+
+{::options parse_block_html="true" /}
+<div class="text-right">
+[How to save p5js sketches to gif](https://discourse.processing.org/t/how-to-save-your-p5-js-sketch-as-a-gif-using-ccapture-js/1264 "cats?")
+</div>
+{::options parse_block_html="false" /}
+
+## This week was supposed to be about GANS.
+
+Can't talk about AI without talking about humans. Advancements in AI seem to bring with it challenges to the dogma of consciousness, intelligence, creativity...
+
+## Are these GANS?
+
+No. But if it were it would be trained on American Realism 
+
+<div class="text-center pt-4 pb-4">    
+    <figure class="figure">
+        <img src="{{ site.baseurl }}/images/fridays2020/Jan_17_2020_1.jpg" class="img-fluid" alt="out in the country">
+        <figcaption class="figure-caption">Gertrude Abercrombie, Out in the Country, 1939, oil on canvas, 25 1/2 × 31 5/8 inches (framed), 23 1/4 × 29 1/4 inches (unframed)</figcaption>
+    </figure>    
+</div>
+
+{::options parse_block_html="true" /}
+<div class="p-4" style="background-color: #38d44c; color: #234342">
+### Things to appreciate about art museums
+In art museums, standing in place and staring at something for an incredibly long time makes you appear smart, not crazy.
+</div>
+{::options parse_block_html="false" /}
+
+----
+
+note for future: 
+* chairs so folks can relax, recline, and just take it in. placing chairs in front of piece turns the piece and folks interacting into a form of time based work/performance. 
+* I should add some chairs to the piece no signal...
+* isometric camera with "hotspots" that move camera to defined angles for dramatic effect
+
+----
+
+question: what would and entire research paper on AI look like layed out on one page and blown up large?
+
+<div class="text-center">    
+    <figure class="figure">
+        <img src="{{ site.baseurl }}/images/fridays2020/Jan_17_2020_2.jpg" class="img-fluid" alt="research paper">
+    </figure>    
+</div>
+ 
+<div class="text-center">
+    <figure class="figure">
+        <img src="{{ site.baseurl }}/images/fridays2020/Jan_17_2020_3.jpg" class="img-fluid" alt="out in the country">
+    </figure>    
+</div>
+
