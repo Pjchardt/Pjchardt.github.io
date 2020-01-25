@@ -1,0 +1,23 @@
+---
+layout: blog
+title:  "Jan. 17th, 2020"
+---
+<head>
+    <script src="https://aframe.io/releases/1.0.2/aframe.min.js"></script>
+    <script src="https://cdn.aframe.io/fonts/mozillavr.fnt"></script>
+</head>
+
+# January 24th, 2020 
+
+WebVR? Waited until 10pm Friday evening to start this week, how about a hello world attempt.
+
+<a-scene background="color: #FAFAFA">
+    <a-box position="-1 0.5 -3" rotation="0 45 0" color="#4CC3D9" shadow animation="property: color; to: #EB9A39; dur: 1500; easing: linear; loop: true; dir: alternate"></a-box>
+    <!--<a-sphere position="0 1.25 -5" radius="1.25" color="#EF2D5E" shadow></a-sphere>
+    <a-cylinder position="1 0.75 -3" radius="0.5" height="1.5" color="#FFC65D" shadow></a-cylinder>-->
+    <a-plane position="0 0 -4" rotation="-90 0 0" width="4" height="4" color="#7BC8A4" shadow></a-plane>
+    <a-entity position="0 2 -5" text="font: mozillavr; color:black; width:8; value: January 24th, 2020;"></a-entity>
+    <a-entity position="0 1.5 -5" text="font: mozillavr; color:black; width:4; value: Another week that was supposed to be about GANS.;"></a-entity>
+    <a-entity position="0 1.25 -5" text="font: mozillavr; color:black; width:2; value: Still no GANS...;"></a-entity>
+    
+</a-scene>
