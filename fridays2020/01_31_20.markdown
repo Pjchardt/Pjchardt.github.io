@@ -1,0 +1,25 @@
+---
+layout: blog
+title:  "Jan. 31st, 2020"
+---
+<br>
+<script>
+    $('body').css({'background-color' : 'black', 'color' : 'green'});
+</script>
+<div class="text-center" style="padding-top: 100px">    
+    <figure class="figure" style="width:500px">
+        <img src="{{ site.baseurl }}/images/fridays2020/sensual_algorithmic_nightmares_2.gif" class="img-fluid" alt="sensual_algorithmic_nightmares_2">
+    </figure>    
+</div>
+<br>
+<div class="text-center" style="padding-top: 100px">    
+    <figure class="figure" style="width:500px">
+        <img src="{{ site.baseurl }}/images/fridays2020/sensual_algorithmic_nightmares_1.gif" class="img-fluid" alt="sensual_algorithmic_nightmares_1">
+    </figure>    
+</div>
+<br>
+<div class="text-center" style="padding-top: 100px">    
+    <figure class="figure" style="width:500px">
+        <img src="{{ site.baseurl }}/images/fridays2020/sensual_algorithmic_nightmares_3.gif" class="img-fluid" alt="sensual_algorithmic_nightmares_3">
+    </figure>    
+</div>
