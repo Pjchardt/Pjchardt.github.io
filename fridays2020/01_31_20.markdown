@@ -3,6 +3,8 @@ layout: blog
 title:  "Jan. 31st, 2020"
 ---
 <br>
+Due to limited time these gifs are low quality examples of the gifs I am developing. Hopefully by mid February I can replace these with much higher quality gifs that represent the final forms much better.
+<br>
 <script>
     $('body').css({'background-color' : 'black', 'color' : 'green'});
 </script>

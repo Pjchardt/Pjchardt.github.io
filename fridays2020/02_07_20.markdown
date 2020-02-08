@@ -1,0 +1,35 @@
+---
+layout: blog
+title:  "Feb. 7th, 2020"
+---
+<br/>
+This page provides a link to specific works that I hope give a clear indication of my interests, the quality of my work, and the relevance to my proposed project at Squeaky Wheel.
+<br/>
+
+### Sensual Algorithmic Nightmares
+[Link to video documentation](https://vimeo.com/388774712 "link")  
+This project takes various tools and production pipelines from the video game industry--such as photogrammetry, character rigging, and animation--and subverts the algorithms involved in these processes. The 3d animations from this project will be utlized in phase one of "Conceptual manufacturing--assembly line of the future".
+
+----
+
+### Tilly
+[Link to documentation](https://richardhoag.land/projects/tilly.html "link")  
+Tilly is an installation/performance, a machine that uses AI to understand the objects it sees around itself to then construct haiku about its environment. The haiku are spoken into a microphone/PA system.
+
+---- 
+
+### Liminal
+[Link to documentation](https://vimeo.com/379911882 "link")  
+Liminal explores false sense of other and connection created by digital manipulation; liminal constructs the feeling of another human's presense in the space by inserting the dynamic shadow of a digital avatar unto the same wall as participant's own shadows.
+
+----
+
+### Daydream Blue
+[Link to documentation](https://www.youtube.com/watch?v=hKVtW93JQ1g "link")  
+Daydream Blue is a virtual reality game commercially available. The project is included here to demonstrate by competency in VR development as well as my achievements in this field, as Daydream Blue won Gold in the internation Oculus Mobile VR Jam.
+
+----
+
+### Portfolio
+[Link to documentation](https://richardhoag.land/ "link")  
+Portfolio home page
