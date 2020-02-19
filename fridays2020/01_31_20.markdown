@@ -3,16 +3,47 @@ layout: blog
 title:  "Jan. 31st, 2020"
 ---
 <br>
-Due to limited time these gifs are low quality examples of the gifs I am developing. Hopefully by mid February I can replace these with much higher quality gifs that represent the final forms much better.
+
+# Sensual Algorithmic Nightmares project
+project is work in progress
+
 <br>
 <script>
     $('body').css({'background-color' : 'black', 'color' : 'green'});
 </script>
+
 <div class="text-center" style="padding-top: 100px">    
-    <figure class="figure" style="width:500px">
-        <img src="{{ site.baseurl }}/images/fridays2020/sensual_algorithmic_nightmares_2.gif" class="img-fluid" alt="sensual_algorithmic_nightmares_2">
+    <figure class="figure" style="max-width:1280px">
+        <img src="{{ site.baseurl }}/images/fridays2020/trash_tornado.gif" class="img-fluid" alt="trash tornado gif">
     </figure>    
 </div>
+
+<div class="text-center" style="padding-top: 100px">    
+    <figure class="figure" style="max-width:1280px; width: 100%">
+        <img src="{{ site.baseurl }}/images/fridays2020/melt.gif" class="img-fluid" style="width:100%" alt="trash tornado gif">
+    </figure>    
+</div>
+
+<div class="text-center" style="padding-top: 100px">    
+    <figure class="figure" style="max-width:1280px">
+        <img src="{{ site.baseurl }}/images/fridays2020/herbie_running.gif" class="img-fluid" alt="herbie running gif">
+    </figure>    
+</div>
+
+<div class="text-center" style="padding-top: 100px">    
+    <figure class="figure" style="max-width:1280px">
+        <img src="{{ site.baseurl }}/images/fridays2020/san_4.gif" class="img-fluid" alt="sensual_algorithmic_nightmares_4">
+    </figure>    
+</div>
+
+<div class="text-center" style="padding-top: 100px">    
+    <figure class="figure" style="max-width:1280px">
+        <img src="{{ site.baseurl }}/images/fridays2020/san_5.gif" class="img-fluid" alt="sensual_algorithmic_nightmares_4">
+    </figure>    
+</div>
+
+<br>
+The gifs below were captured on my phone and low quality. I am working to re-render them and upload high quality versions to this page.S
 <br>
 <div class="text-center" style="padding-top: 100px">    
     <figure class="figure" style="width:500px">
@@ -26,20 +57,4 @@ Due to limited time these gifs are low quality examples of the gifs I am develop
     </figure>    
 </div>
 
-<div class="text-center" style="padding-top: 100px">    
-    <figure class="figure" style="max-width:1280px">
-        <img src="{{ site.baseurl }}/images/fridays2020/trash_tornado.gif" class="img-fluid" alt="trash tornado gif">
-    </figure>    
-</div>
 
-<div class="text-center" style="padding-top: 100px">    
-    <figure class="figure" style="max-width:1280px">
-        <img src="{{ site.baseurl }}/images/fridays2020/melt.gif" class="img-fluid" alt="trash tornado gif">
-    </figure>    
-</div>
-
-<div class="text-center" style="padding-top: 100px">    
-    <figure class="figure" style="max-width:1280px">
-        <img src="{{ site.baseurl }}/images/fridays2020/herbie_running.gif" class="img-fluid" alt="herbie running gif">
-    </figure>    
-</div>
