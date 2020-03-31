@@ -64,7 +64,8 @@ title:  "poca_blob"
     <div class="container" style="max-width: 100%; margin-top: -30px; padding-top: 50px; padding-bottom: 50px;">
         <div class="row">
             <div class="col">
-                <input type='button' id='but_screenshot' value='Take screenshot' onclick='screenshot();'><br/>
+                <!--<input type='button' id='but_screenshot' value='Take screenshot' onclick='screenshot();'><br/>-->
+                <h2 style="color: #528adb">denim</h2>
                 <div class="col">
                     <img src="{{ site.baseurl }}/images/poca/vaporwave_glitch_1.gif" alt="vaporwave glitch">
                 </div>
