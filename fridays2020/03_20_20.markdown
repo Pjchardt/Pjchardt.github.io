@@ -1,0 +1,14 @@
+---
+layout: blog
+title:  "Mar. 20th, 2020"
+---
+<script>
+    $('body').css({'background-color' : 'black', 'color' : 'green'});
+</script>
+
+<div class="text-center" style="padding-top: 100px">    
+  <a href="https://richardhoag.land/poca">POCA</a>    
+</div>
+
+
+

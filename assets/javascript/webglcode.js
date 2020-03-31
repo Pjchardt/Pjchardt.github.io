@@ -178,30 +178,3 @@ function InitializeWebGL() {
          }
          animate(0);
 }
-
-function GrabHaiku() {
-  const proxyurl = "https://sleepy-oasis-47738.herokuapp.com/";
-  const haikurl='http://142.93.240.55/getHaiku';
-
-  fetch(proxyurl + haikurl)
-  .then(function(data) {
-    if (data.status == 200) {
-        return data.json();
-    }
-    else {
-      return null;
-    }
-  })
-  .then (function(myJson) {
-    if (myJson == null) {
-      return;
-    }
-    console.log(JSON.stringify(myJson));
-    document.getElementById("lineOne").innerHTML = myJson.lineOne;
-    document.getElementById("lineTwo").innerHTML = myJson.lineTwo;
-    document.getElementById("lineThree").innerHTML = myJson.lineThree;
-  })
-  .catch(function(error) {
-    console.log(error);
-  });
-}
