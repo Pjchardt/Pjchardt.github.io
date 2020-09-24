@@ -8,35 +8,12 @@
     {% include header.html %}
 
     <div class="hide-on-mobile">
-      <div class="containerLeft">
-        <div class="row">
-          <div class="col-xs" id="scrollable" style="width: 230px">
-            {% include projectList.html %}
-          </div>
-          <div class="col-xs-0 col-sm-1">
-          </div>
-          <div class="col-xs-12 col-sm-7 col-md-6 col-lg-5">
-            {{ content }}
-          </div>
-        </div>
-      </div>
+      {{ content }}
     </div>
 
     <div class="hide-on-desktop">
-        <div class="containerLeft">
-          <div class="row">
-            <div class="col-xs-0 col-sm-0 col-md-1">
-            </div>
-            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-5">
-              {{ content }}
-            </div>
-            <hr>
-            <div class="col-xs-12 col-sm-12 col-md-3 col-lg-2">
-              {% include projectList.html %}
-            </div>
-          </div>
-        </div>
-      </div>
+      {{ content }}
+    </div>
 
     {% include footer.html %}
 

@@ -1,0 +1,18 @@
+---
+layout: default
+title:  "ontopolologies"
+---
+
+<div class="right">
+  <div class="row">
+    <!-- 16:9 aspect ratio -->
+    <div class="embed-responsive embed-responsive-16by9">
+      <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/298003260" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    </div>
+  </div>
+
+  <h3 align="left">Deluxe Turbo Racing 360</h3>
+  <p>Racing game played on a physical board where players race Xbox 360 controllers by throttling the controller's internal vibration motors via custom built hardware.</p>
+  <b>Festivals and Awards</b>
+  <p>Alt.Ctrl.GDC 2016</p>
+</div>

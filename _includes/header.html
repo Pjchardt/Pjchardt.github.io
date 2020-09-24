@@ -1,11 +1,42 @@
-<nav class="navbar navbar-static-top navbar-dark bg-inverse">
+<nav id="navbar" class="navbar navbar-static-top navbar-dark bg-inverse">
+    <ul class="nav navbar-nav">
+        {% assign links = site.data.navigation %}
+        {% for link in links %}
+            {% assign class = nil %}
+            {% if page.url contains link.url %}
+                {% assign class = 'active' %}
+            {% endif %}
+            {% if link.sublinks %}
+                <li class="dropdown {{ class }}">
+                    <a href="{{ site.url }}{{ site.baseurl }}{{ link.url }}" class="navbar-brand" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ link.title }} <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        {% for sublink in link.sublinks %}
+                            {% if sublink.title == 'separator' %}
+                                <li role="separator" class="divider"></li>
+                            {% else %}
+                                <li>
+                                    <a href="{{ site.url }}{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a>
+                                </li>
+                            {% endif %}
+                        {% endfor %}
+                    </ul>
+                </li>
+            {% else %}
+                <li class="{{ class }}">
+                    <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
+                </li>
+            {% endif %}
+        {% endfor %}
+    </ul>
+</nav>
+
+
+<!--<nav class="navbar navbar-static-top navbar-dark bg-inverse">
   <a class="navbar-brand" href="{{ "/" | relative_url }}">Home</a>
   <a class="navbar-brand" href="{{ "/projects" | relative_url }}">Projects</a>
-  <!--
-  <a class="navbar-brand" href="{{ "/opn_src" | relative_url }}">Open Src</a>
-  <a class="navbar-brand" href="{{ "/bio" | relative_url }}">Bio</a>
-  -->
-</nav>
+  <!--<a class="navbar-brand" href="{{ "/opn_src" | relative_url }}">Open Src</a>
+  <!--<a class="navbar-brand" href="{{ "/bio" | relative_url }}">Bio</a>
+</nav>-->
 
 <!--
 <nav class="navbar navbar-expand-lg navbar-light bg-light">

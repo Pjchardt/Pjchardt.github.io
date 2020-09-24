@@ -14,19 +14,55 @@
     justify-content: flex-start;
 }
 
+.navbar-nav {
+    display: flex;
+    flex-direction: row;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+.navbar-nav .dropdown-menu {
+    position: absolute;
+    float: none;
+}
+
 .navbar-static-top {
-  background-color:#373a3c;
+  background-color:#432c63;
 }
 
 .navbar-brand {
   color:#fff;
-  font-size: 1.25rem;
-  padding-right: 1rem;
+  font-size: 1rem;
+  //padding-right: 1rem;
 }
 
 .navbar-name {
   color:#fff;
   font-size: 1.25rem;
+}
+
+.navbar li {
+  padding: 0em 1vw 0em 1vw;
+}
+
+/////////////////////////////////////////////
+
+//Footer/////////////////////////////////////
+
+footer {
+  font-size: 1.5rem;
+  padding: 10px;
+  background-color:#b51d6a;
+}
+
+footer .h6 {
+  color: #fff;
+  margin: 10px 0px 5px 0px;
+}
+
+footer hr {
+  color: #fff;
 }
 
 /////////////////////////////////////////////
@@ -64,7 +100,7 @@
 
 body {
   //padding-top: 10px;
-  padding-bottom: 25px;
+  //padding-bottom: 25px;
   font-size: 18px;
 }
 
@@ -85,8 +121,12 @@ body {
 }
 
 .containerLeft {
-  margin-top: 20px;
+  //margin-top: 20px;
   //margin-left: 20px;
+}
+
+.justify-center {
+  justify-content: center;
 }
 
 .embed-responsive {
@@ -115,6 +155,11 @@ body {
   color: #373a3c;
 }
 
+.kinda-huge-font {
+  font-size: 48px;
+  color: #373a3c;
+}
+
 h3 {
   margin-top: 0px;
 }
@@ -139,11 +184,6 @@ p.left {
 
 .alternate {
   background-color: #EEE;
-}
-
-footer {
-  font-size: 1.5rem;
-  padding-left: 10px;
 }
 
 hr {
@@ -176,6 +216,7 @@ a:hover {
 .row {
   margin-left: 0px;
   margin-right: 0px;
+  padding: 25px 0px 10px 0px;
 }
 
 .haikuContainer {
@@ -203,6 +244,10 @@ a:hover {
   width:100%;
   height: 100%;
   pointer-events: none
+}
+
+.gif {
+  padding: 10px;
 }
 
 @media (max-width: 768px){
