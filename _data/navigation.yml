@@ -6,46 +6,55 @@
       url: /projects/daydreamBlue.html
     - title: Peter Padder Pauleypop
       url: /projects/ppp.html
+    - title: KOCMOHaBT Spaceman
+      url: /projects/KOCMOHaBTSpaceman.html
     - title: Polygardens
       url: /projects/polygardens.html
     - title: Sam Stone
       url: /projects/samStone.html
-    - title: Where Therefore We Go
-      url: /projects/whereThereforeWeGo.html
-    - title: Smooth Operator
-      url: /projects/smoothOperator.html
-- title: Physical Games
+#    - title: Where Therefore We Go
+#      url: /projects/whereThereforeWeGo.html
+#    - title: Smooth Operator
+#      url: /projects/smoothOperator.html
+- title: Physical|Other Games
   sublinks:
+    - title: Virtual Realities
+      url: /projects/virtualRealities.html
     - title: Deluxe Turbo Racing 360
       url: /projects/dTR360.html
     - title: Open Source
       url: /projects/openSource.html
 - title: Video
-  url: /contact.html
+  sublinks:
+    - title: Ontopolologies 2
+      url: /projects/ontopolologies_2.html
+    - title: Ontopolologies 3
+      url: /projects/ontopolologies_3.html
+    - title: Ontopolologies 7
+      url: /projects/ontopolologies_7.html
+    - title: pre-ontopolologies
+      url: /projects/pre-ontopolologies.html
 - title: Installation
   sublinks:
     - title: Liminal
       url: /projects/liminal.html
     - title: Tilly
       url: /projects/tilly.html
-    - title: Virtual Realities
-      url: /projects/virtualRealities.html
+    - title: Artifact Cupcake
+      url: /projects/artifact_cupcake.html
+    - title: Meaningful Registration
+      url: /projects/meaningful_registration.html
     - title: In White
       url: /projects/inWhite.html
-    - title: Nothing But Milk
-      url: /projects/nothing_but_milk.html
-    - title: Richard is an Artist
-      url: /projects/RICHARD.html
     - title: IVE
       url: /projects/IVE.html
     - title: ARTiculation
       url: /projects/ARTiculation.html
-- title: Gifs
+- title: Software
   sublinks:
-    - title: Daydream Blue
-      url: /projects/daydreamBlue.html
-    - title: Documentation
-      url: /documentation.html
-    - title: separator
-    - title: Customer Support
-      url: /customer-support.html
+    - title: Nothing But Milk
+      url: /projects/nothing_but_milk.html
+    - title: ODLKAP
+      url: /projects/odlkap.html
+    - title: Richard is an Artist
+      url: /projects/RICHARD.html
