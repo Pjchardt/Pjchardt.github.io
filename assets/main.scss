@@ -29,7 +29,7 @@
 }
 
 .navbar-static-top {
-  background-color:#432c63;
+  background-color:#000000;
 }
 
 .navbar-brand {
@@ -54,7 +54,7 @@
 footer {
   font-size: 1.5rem;
   padding: 10px;
-  background-color:#b51d6a;
+  background-color:#219c58;
 }
 
 footer .h6 {
@@ -78,6 +78,49 @@ footer hr {
     padding: 20px;
     color: #f1f1f1;
     background-color: #1afb89d6;
+}
+
+.home-cv {
+  //margin-top: 0px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  padding: 20px;
+  width: 400;
+}
+
+.home-projects {
+  //margin-top: 0px;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
+
+.home-cv a {
+  color: #f1f1f1;
+  font-size: 12rem;
+}
+
+.home-projects a {
+  color: #f1f1f1;
+  font-size: 8rem;
+}
+
+// Alignment
+/* Centered text */
+.home-centered {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* Container holding the image and the text */
+.home-container {
+  position: relative;
+  text-align: center;
+  color: white;
+  background-color: #000000e8;
 }
 
 #home_video {
@@ -251,6 +294,8 @@ a:hover {
 .gif {
   padding: 10px;
 }
+
+
 
 @media (max-width: 768px){
   .hide-on-mobile {

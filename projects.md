@@ -2,10 +2,19 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: default
+layout: default_black
 ---
 
-<div class="row justify-center" style="background-color: #c4fdfd; padding-bottom: 25px">
+<div style="overflow: hidden;">
+  <div class="container">
+    <video autoplay muted loop id="home_video" style="position: relative; max-width: 250%;  left: 50%; transform: translateX(-50%);">
+      <!--<source src="/videos/canon_loop.mp4" type="video/mp4">-->
+      <source src="/videos/faces_room_gif_v2.mp4" type="video/mp4">
+    </video>
+  </div>
+</div>
+
+<!--<div class="row justify-center" style="background-color: #c4fdfd; padding-bottom: 25px">
   <div class="huge-font">welcome!</div>
   <div class="gif"><img src="/images/meaningful_registration_1.gif" class="img-responsive" alt="gif 1" style=" padding-bottom: 2rem; max-width:100%"></div>
   <div class="kinda-huge-font">you found my art!</div>
@@ -40,4 +49,4 @@ layout: default
 
   <div class="kinda-huge-font">Alas our story has come to an end for now. How about checking out my new video project "ontopolologies"? Or download the game "Peter Padder Pauleypop" and take them for a spin?</div>
 
-</div>
+</div>-->
