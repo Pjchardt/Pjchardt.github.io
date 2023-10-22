@@ -141,6 +141,17 @@ footer hr {
   color: #f1f1f1;
   display:inline;
 }
+
+/* Define the styles for the black rectangle */
+.black-rectangle {
+  position: absolute; /* Position the element absolutely */
+  top: 400px; /* Adjust the top position as needed */
+  left: 10px; /* Adjust the left position as needed */
+  width: 100%; /* Set the width of the rectangle */
+  height: 130px; /* Set the height of the rectangle */
+  background-color: black; /* Set the background color to black */
+}
+
 /////////////////////////////////////////////
 
 body {

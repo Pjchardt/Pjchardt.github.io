@@ -14,6 +14,8 @@ layout: home
 
 <!--<div class="right">-->
 
+<div class="black-rectangle"></div>
+
 <div class="home-cv">
   <div class="home-container">
     <img src="/images/fridays2020/san_5.gif" class="img-responsive" alt="gif 2 photo" style="padding-bottom: 2rem; max-width:100%; opacity: .75;">
