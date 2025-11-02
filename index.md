@@ -34,14 +34,6 @@ layout: home
     </div>
   </div>
 
-  <div class="bottom-left">
-    <div class="top-right-home-container">
-      <div class="home-centered">
-        My portfolio is out of date, but my CV is kept reasonably up to date. Click on my CV and email me directly to chat. 
-      </div>
-    </div>
-  </div>
-
   <div class="home-projects">
     <div class="home-container">
       <img src="/images/MeaningfulRegistration_Sketch2_2.gif" class="img-responsive" alt="gif 2 photo" style="max-width:100%; opacity: .75;">

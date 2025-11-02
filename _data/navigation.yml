@@ -60,3 +60,10 @@
       url: /projects/RICHARD.html
     - title: AR Marker and the recording of its own making
       url: /projects/meaningful_registration_experiment_3.html
+- title: Websites
+  sublinks:
+    - title: Latent Walks
+      url: /projects/latentWalks.html
+    - title: oeoe.club
+      url: /projects/oeoe_club.html
+    
