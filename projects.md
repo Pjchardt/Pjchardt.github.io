@@ -12,7 +12,20 @@ layout: default_black
       <source src="/videos/faces_room_gif_v2.mp4" type="video/mp4">
     </video>
   </div>
+  <div class="overlay-text">
+    <p>
+      I use interactive software and hardware applications to construct spaces of play for reflection on cultural and personal implications of emerging technologies. I work to increase technology users’ power by expanding their agency in an increasingly algorithm-mediated life. Specifically, I am interested in reducing the information disparity between “builders” and “users” of technological systems emerging from the fields of virtual world building, augmentation of reality, and artificial intelligence.
+    </p>
+    <p>
+      I employ and modify mass produced devices such as video game controllers and VR rigs in my work. In addition, I fabricate custom built apparatus that operate as agents, interface or environment. These devices and apparatus engender spaces of play, taking the form of physical installations involving screens and projections, speakers, sensors, and other electronic and physical components, including controllers, terminals, and mobile devices.
+    </p>
+    <p>
+      Through these tools and environments, my practice spans the practical, the conceptual, and the experimental. On the practical side, I develop digital therapeutics that address complex health conditions such as delirium and dementia. Conceptually, I create projects like Funny Farming, a generative AI–mediated game that empowers players to explore “token-based genetics.” Experimentally, I am developing Embodied Aesthetic Machine, a project that builds on a decade of work with embodied AI entities.
+    </p>
+  </div>
 </div>
+
+
 
 <!--<div class="row justify-center" style="background-color: #c4fdfd; padding-bottom: 25px">
   <div class="huge-font">welcome!</div>
